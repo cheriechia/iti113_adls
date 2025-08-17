@@ -1,0 +1,7 @@
+# Ignore joblib files during commit
+*.joblib
+*.csv
+
+# Ignore conda
+.conda/
+.vscode/
